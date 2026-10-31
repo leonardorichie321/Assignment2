@@ -1,0 +1,27 @@
+{
+  "Turnaround time": {
+    "prelim-config01.xml": 405,
+    "prelim-config02.xml": 646,
+    "prelim-config03.xml": 1946
+  },
+  "Resource utilisation": {
+    "prelim-config01.xml": 87.84,
+    "prelim-config02.xml": 96.82,
+    "prelim-config03.xml": 89.6
+  },
+  "Total rental cost": {
+    "prelim-config01.xml": 1.11,
+    "prelim-config02.xml": 0.91,
+    "prelim-config03.xml": 7.64
+  },
+  "Scheduled jobs": {
+    "prelim-config01.xml": 10,
+    "prelim-config02.xml": 20,
+    "prelim-config03.xml": 30
+  },
+  "Unscheduled jobs": {
+    "prelim-config01.xml": null,
+    "prelim-config02.xml": null,
+    "prelim-config03.xml": null
+  }
+}

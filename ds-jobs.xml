@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- job list for ds-sim, 03-Sep, 2026 @ MQ -->
+<jobs>
+	<type name="normal" minRunTime="1" maxRunTime="3600" populationRate="100" />
+	<job id="0" type="normal" submitTime="20" estRunTime="2264" cores="1" memory="900" disk="400" />
+	<job id="1" type="normal" submitTime="50" estRunTime="324" cores="8" memory="3700" disk="3600" />
+	<job id="2" type="normal" submitTime="75" estRunTime="4085" cores="1" memory="400" disk="1400" />
+	<job id="3" type="normal" submitTime="100" estRunTime="1950" cores="2" memory="1000" disk="600" />
+	<job id="4" type="normal" submitTime="144" estRunTime="3348" cores="4" memory="2200" disk="1700" />
+	<job id="5" type="normal" submitTime="163" estRunTime="4692" cores="2" memory="1800" disk="4100" />
+	<job id="6" type="normal" submitTime="2662" estRunTime="87" cores="3" memory="2900" disk="1600" />
+	<job id="7" type="normal" submitTime="2744" estRunTime="521" cores="3" memory="2600" disk="2500" />
+	<job id="8" type="normal" submitTime="2794" estRunTime="556" cores="6" memory="4100" disk="8600" />
+	<job id="9" type="normal" submitTime="3595" estRunTime="93" cores="3" memory="400" disk="4300" />
+	<job id="10" type="normal" submitTime="3805" estRunTime="2565" cores="1" memory="900" disk="700" />
+	<job id="11" type="normal" submitTime="3897" estRunTime="1535" cores="3" memory="2400" disk="2000" />
+	<job id="12" type="normal" submitTime="4092" estRunTime="1991" cores="1" memory="100" disk="1700" />
+	<job id="13" type="normal" submitTime="4343" estRunTime="3820" cores="2" memory="800" disk="600" />
+	<job id="14" type="normal" submitTime="4497" estRunTime="1302" cores="1" memory="900" disk="1700" />
+	<job id="15" type="normal" submitTime="4780" estRunTime="2259" cores="1" memory="900" disk="1900" />
+	<job id="16" type="normal" submitTime="4784" estRunTime="6962" cores="4" memory="2700" disk="6100" />
+	<job id="17" type="normal" submitTime="4915" estRunTime="774" cores="4" memory="4000" disk="7300" />
+	<job id="18" type="normal" submitTime="5659" estRunTime="2170" cores="3" memory="600" disk="4900" />
+	<job id="19" type="normal" submitTime="6023" estRunTime="1814" cores="4" memory="3400" disk="3700" />
+	<job id="20" type="normal" submitTime="6265" estRunTime="874" cores="3" memory="3000" disk="1900" />
+	<job id="21" type="normal" submitTime="7048" estRunTime="1846" cores="2" memory="1600" disk="300" />
+	<job id="22" type="normal" submitTime="7100" estRunTime="220" cores="4" memory="3400" disk="7900" />
+	<job id="23" type="normal" submitTime="7355" estRunTime="5337" cores="2" memory="500" disk="1400" />
+	<job id="24" type="normal" submitTime="7706" estRunTime="550" cores="1" memory="300" disk="2000" />
+	<job id="25" type="normal" submitTime="7908" estRunTime="2092" cores="4" memory="2600" disk="1600" />
+	<job id="26" type="normal" submitTime="8096" estRunTime="185" cores="4" memory="3800" disk="4800" />
+	<job id="27" type="normal" submitTime="8302" estRunTime="534" cores="3" memory="1000" disk="1300" />
+	<job id="28" type="normal" submitTime="8437" estRunTime="419" cores="2" memory="900" disk="1800" />
+	<job id="29" type="normal" submitTime="8580" estRunTime="2160" cores="1" memory="200" disk="1700" />
+</jobs>

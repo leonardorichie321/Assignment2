@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- system information generated for ds-sim@MQ, 03-Sep, 2026 @ MQ -->
+<system>
+	<servers>
+		<server type="small" limit="2" bootupTime="60" hourlyRate="0.20" cores="2" memory="4000" disk="16000" relSpeed="1.00"/>
+		<server type="medium" limit="2" bootupTime="60" hourlyRate="0.40" cores="4" memory="8000" disk="64000" relSpeed="1.00"/>
+		<server type="large" limit="2" bootupTime="60" hourlyRate="0.80" cores="8" memory="16000" disk="512000" relSpeed="1.00"/>
+	</servers>
+</system>
